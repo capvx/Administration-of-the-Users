@@ -1,0 +1,14 @@
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\bin\Debug\DataWpf.UI.exe.config
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\bin\Debug\DataWpf.UI.exe
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\bin\Debug\DataWpf.UI.pdb
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.csprojAssemblyReference.cache
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\MainWindow.baml
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\MainWindow.g.cs
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\App.g.cs
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.cache
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.g.resources
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.Properties.Resources.resources
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.GenerateResource.cache
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.CoreCompileInputs.cache
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+C:\Users\blueb\source\repos\Solution1\DataWpf.UI\obj\Debug\DataWpf.UI.pdb
